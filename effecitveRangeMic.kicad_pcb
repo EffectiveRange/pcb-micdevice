@@ -6866,15 +6866,14 @@
 			(justify left bottom)
 		)
 	)
-	(gr_text "www.effective-range.com/\nproducts/micdevice"
+	(gr_text "www.effective-range.com"
 		(at 119.137128 67.1322 0)
 		(layer "F.SilkS" knockout)
 		(uuid "673c85a7-783c-469d-999d-965042396ee2")
 		(effects
 			(font
-				(size 0.35 0.35)
-				(thickness 0.0875)
-				(bold yes)
+				(size 0.4 0.4)
+				(thickness 0.1)
 			)
 			(justify left bottom)
 		)
