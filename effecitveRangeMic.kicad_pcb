@@ -10,7 +10,7 @@
 	(title_block
 		(title "Effective Range  Mic")
 		(date "2024-06-16")
-		(rev "2.2.1")
+		(rev "2.2.2")
 		(company "Global Scope Ltd")
 		(comment 1 "Author: Ferenc Janky")
 		(comment 2 "License: All rights reserved")
@@ -6555,7 +6555,7 @@
 		(layer "Edge.Cuts")
 		(uuid "fb0cb5e7-e908-4a47-952f-aa6ee6f2e063")
 	)
-	(gr_text "MicDevice v2.2.1"
+	(gr_text "MicDevice v2.2.2"
 		(at 119.9896 60.9346 90)
 		(layer "B.Cu")
 		(uuid "e32b2856-143a-475e-87ac-a838160ef29c")
