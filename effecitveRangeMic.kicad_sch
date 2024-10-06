@@ -6,8 +6,8 @@
 	(paper "A4")
 	(title_block
 		(title "Effective Range Mic Module")
-		(date "2024-07-24")
-		(rev "2.3.0")
+		(date "2024-10-06")
+		(rev "2.3.1")
 		(company "Effective Range Kft,")
 		(comment 1 "visit https://creativecommons.org/licenses/by/4.0/")
 		(comment 2 "is licensed under CC BY 4.0. To view a copy of this license,")
